@@ -3,6 +3,7 @@
     "name": "todoist",
     "slug": "todoist",
     "version": "1.0.0",
+    "newArchEnabled": true,
 
     "scheme": "todoist",
     "web": {
