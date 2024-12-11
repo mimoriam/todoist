@@ -1,1 +1,7 @@
 npm i -D eslint-config-prettier eslint-plugin-prettier eslint-plugin-import
+
+npx expo install expo-dev-client
+npx expo prebuild -p android --clean
+npx expo run:android
+
+npm i @clerk/clerk-expo expo-secure-store
